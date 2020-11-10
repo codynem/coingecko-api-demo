@@ -1,0 +1,14 @@
+{
+  "name": "coingecko",
+  "version": "1.0.0",
+  "description": "Gets Coingecko data and displays it",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Logan Fetterly",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
